@@ -21,6 +21,7 @@ public class MainWindow {
 			window.open();
 		} catch (Exception e) {
 			e.printStackTrace();
+			
 		}
 	}
 
